@@ -24,6 +24,7 @@ const Shop = () => {
                 id: selectedProduct.id,
                 title: selectedProduct.title,
                 quantity: 1,
+                price: selectedProduct.price,
             };
     
     
