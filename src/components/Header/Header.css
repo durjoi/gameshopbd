@@ -1,0 +1,9 @@
+.header-container h1 {
+    color: lightblue;
+    font-size: 38px;
+    font-weight: 800;
+}
+
+.header-container h1 span {
+    color: orange;
+}

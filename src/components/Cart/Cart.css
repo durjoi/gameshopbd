@@ -1,0 +1,10 @@
+.cart-container {
+    height: 600px;
+    padding: 10px;
+    background: #efefef;
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    margin-top: 30px;
+    position: sticky;
+    top:0px;
+}

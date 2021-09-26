@@ -1,0 +1,53 @@
+.game-card {
+    padding-bottom: 10px;
+    border: 1px solid #b4b4b4;
+    border-radius: 10px;
+}
+
+.game-card img {
+    height: 400px;
+    width: 100%
+}
+
+.game-card h2 {
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    font-weight: 800;
+}
+
+/* .game-card p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+} */
+
+.game-rating {
+    margin-top: 5px;
+    margin-bottom: 3px;
+    color: gold;
+}
+
+.game-card h4 {
+    margin-top: 2px;
+    margin-bottom: 3px;
+    color: #616161;
+    font-size: 14px;
+}
+
+.game-price {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    margin-top: 2px;
+}
+
+.game-card button {
+    width: 70%;
+    border: none;
+    background: lightblue;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+}
