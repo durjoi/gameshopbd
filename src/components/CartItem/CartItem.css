@@ -1,10 +1,15 @@
 .cart-item-container {
     width: 100%;
-    padding: 5px;
     background: #fff;
     border: 1px solid #ffffff;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
     display: grid;
     grid-template-columns: 3fr 1fr;
     grid-column-gap: 5px;
+}
+
+.cart-item-container-quantity {
+    color: rgb(18, 127, 163);
+    font-weight: 600;
+    font-size: 18px;
 }

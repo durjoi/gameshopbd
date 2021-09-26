@@ -6,7 +6,7 @@ const CartItem = (props) => {
     return (
         <div class="cart-item-container">
             <p>{title}  </p>
-            <p>{quantity}</p>
+            <p className="cart-item-container-quantity">{quantity}</p>
         </div>
     );
 };

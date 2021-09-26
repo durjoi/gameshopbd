@@ -2,8 +2,16 @@
     color: lightblue;
     font-size: 38px;
     font-weight: 800;
+    margin-bottom: 10px;
 }
 
 .header-container h1 span {
     color: orange;
+}
+
+.header-container p {
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #777777;
 }
